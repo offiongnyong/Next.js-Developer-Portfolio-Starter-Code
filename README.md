@@ -1,24 +1,79 @@
-# Next.Js Website Tutorial: Create a Stunning Portfolio Website with Nextjs, Tailwind CSS and Framer-motion🌟
+# Offiong Nyong🌟
 
-![GitHub stars](https://img.shields.io/github/stars/codebucks27/Next.js-Developer-Portfolio-Starter-Code?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
-![GitHub forks](https://img.shields.io/github/forks/codebucks27/Next.js-Developer-Portfolio-Starter-Code?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
-![Github Followers](https://img.shields.io/github/followers/codebucks27.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
 
-This repository contains starter code for Portfolio website created using NextJs. <br />
 
-For Demo and Final Code checkout following link👇: <br />
-[Nextjs Portfolio Website](https://devdreaming.com//videos/nextjs-tutorial-build-portfolio-tailwind-css-framer-motion#code-links) <br />
+**Virtual Assistant / Customer Service Representative**
 
-If you want to learn how to create it please follow below tutorial👇: <br />
-https://youtu.be/Yw7yWHigGKI <br />
-[![YouTube Video Views](https://img.shields.io/youtube/views/Yw7yWHigGKI?style=social)](https://youtu.be/Yw7yWHigGKI)<br />
+Tel :+234-8139489764
 
----
-✨ Checkout my brand new Saas application -> [AI Headshot Generator](https://www.smartheadshots.ai)
+Email : nyongoffiong9@gmail.com
 
----
+LinkedIn: [www.linkedin.com/in/offiong-nyong-0a8839174](http://www.linkedin.com/in/offiong-nyong-0a8839174)
+
+
+
+
+
+
+**PROFESSIONAL SUMMARY**
+
+Proactive Virtual Assistant with over years 2 + of experience in administrative support, email and calendar management, client communication, data entry and task coordination in remote settings. Adept at handling multiple responsibilities efficiently while maintaining high standards of professionalism and confidentiality. Skilled in using Customers Relationship Management( CRM) tools to streamline workflows, support project management, and enhance team productivity. Known for excellent organizational and communication skills, with a strong commitment to delivering timely and accurate support in fast-paced environments.
+
+MY EXPERIENCE
+
+## **Raphael Group Nigeria – Remote | 2023**
+
+Virtual Assistant | Customer service Representative
+
+- Efficiently manage meetings, appointments and travel plans.
+- Coordinated communications for internal projects including emails, newsletters, and webinars.
+- Managed multiple administrative and project-related tasks weekly, ensuring alignment with overall business goals.
+- Improved team productivity by automating calendar invites and centralizing scheduling for 10+ team members.
+- Maintain detailed and organized records, spreadsheets, and cloud folders using Google Workspace
+
+## **DIGITAL SKILL HUB - REMOTE 2024**
+
+**Virtual Assistant / Project Support**
+
+- Drafted and prepared documents for project teams and external partners.
+- Managed staff travel and logistics for project-related activities.
+- Ensured smooth communication and document flow across different project stakeholders.
+
+## **REMOTE CUSTOMER SUPPORT/ CALL CENTER**
+
+**NGCOM NETWORK 04/2024 – Present | Lagos State, Nigeria**
+
+- Answered and managed inbound support calls, assisting customers with technical issues related to internet connectivity.
+- Logged customer interactions and solutions in the ticketing system for future reference and service continuity.
+- Escalated complex issues to the appropriate technical team when resolution wasn’t possible on the first call.
+- Maintained a calm and professional demeanor, even when handling difficult or irate customers.
+- Assisted customers via Zendesk and live chat, resolving an average of 60 inquiries daily.    ****
+
+**XNINJA COMPANY**
+
+Graphics Design
+
+I designed creative works  and post on Twitter in visual storytelling, brand identity, and digital content
+
+creation.
+
+Proficient in Adobe Creative Suite (Photoshop, Illustrator, InDesign) with a strong ability to translate
+
+concepts into engaging designs for web, social media, and print.
+
+Collaborative team player with excellent time management skills and a passion for clean, impactful design.
+
+
+TECHNICAL PROFICIENCY 
+
+Google workspaces ( Doc ,sheet, form, drive), Notion, Zoho, Slack, Hubspot /Bitrix24,Trello,Clockify,Acuity,Asana, Zendesk ,Zapier, Monday.com, Microsoft teams, apollo.io, Picktime, Calendly, Integrately and Dropbox
+
+ THIS IS MY NOTION LINK TO SHOW MY WORKS
+
+https://www.notion.so/Offiong-Effiong-Nyong-216075766c018083a254eba94de69e8a?source=copy_link
 
 ### Images of The Portfolio Website:
+
 
 ![Nextjs Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/home-light-desktop.png)
 ![Nextjs Portfolio Website Dark Mode](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/home-dark-desktop.png)
@@ -30,18 +85,6 @@ https://youtu.be/Yw7yWHigGKI <br />
 ![Mobile Responsive Portfolio Website In Next.js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/articles-light-mobile.png)
 
 
-### Resources Used in This Project
 
-- Profile image in the home page created by using https://www.midjourney.com/ tool.
-- Profile image in the about page by [Albert Dera](https://unsplash.com/@albertdera?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
-on [Unsplash](https://unsplash.com/photos/ILip77SbmOE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
-- Fonts from https://fonts.google.com/ <br />
-- Icons from https://iconify.design/ <br />
-- LightBulb Svg from https://lukaszadam.com/illustrations <br />
-
-### External Libraries used in this project:
-
-- [framer-motion](https://www.framer.com/motion/) <br />
-- [Tailwind css](https://tailwindcss.com/) <br />
 
 
