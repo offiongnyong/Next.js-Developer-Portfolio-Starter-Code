@@ -2,6 +2,8 @@
 
 
 
+
+
 **Virtual Assistant / Customer Service Representative**
 
 Tel :+234-8139489764
@@ -21,23 +23,6 @@ Proactive Virtual Assistant with over years 2 + of experience in administrative 
 
 MY EXPERIENCE
 
-## **Raphael Group Nigeria – Remote | 2023**
-
-Virtual Assistant | Customer service Representative
-
-- Efficiently manage meetings, appointments and travel plans.
-- Coordinated communications for internal projects including emails, newsletters, and webinars.
-- Managed multiple administrative and project-related tasks weekly, ensuring alignment with overall business goals.
-- Improved team productivity by automating calendar invites and centralizing scheduling for 10+ team members.
-- Maintain detailed and organized records, spreadsheets, and cloud folders using Google Workspace
-
-## **DIGITAL SKILL HUB - REMOTE 2024**
-
-**Virtual Assistant / Project Support**
-
-- Drafted and prepared documents for project teams and external partners.
-- Managed staff travel and logistics for project-related activities.
-- Ensured smooth communication and document flow across different project stakeholders.
 
 ## **REMOTE CUSTOMER SUPPORT/ CALL CENTER**
 
@@ -48,6 +33,28 @@ Virtual Assistant | Customer service Representative
 - Escalated complex issues to the appropriate technical team when resolution wasn’t possible on the first call.
 - Maintained a calm and professional demeanor, even when handling difficult or irate customers.
 - Assisted customers via Zendesk and live chat, resolving an average of 60 inquiries daily.    ****
+
+
+## **DIGITAL SKILL HUB - REMOTE 2024**
+
+**Virtual Assistant / Project Support**
+
+- Drafted and prepared documents for project teams and external partners.
+- Managed staff travel and logistics for project-related activities.
+- Ensured smooth communication and document flow across different project stakeholders.
+
+
+
+
+## **Raphael Group Nigeria – Remote | 2023**
+
+Virtual Assistant | Customer service Representative
+
+- Efficiently manage meetings, appointments and travel plans.
+- Coordinated communications for internal projects including emails, newsletters, and webinars.
+- Managed multiple administrative and project-related tasks weekly, ensuring alignment with overall business goals.
+- Improved team productivity by automating calendar invites and centralizing scheduling for 10+ team members.
+- Maintain detailed and organized records, spreadsheets, and cloud folders using Google Workspace
 
 **XNINJA COMPANY**
 
