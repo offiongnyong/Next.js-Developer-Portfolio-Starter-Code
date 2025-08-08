@@ -19,7 +19,7 @@ LinkedIn: [www.linkedin.com/in/offiong-nyong-0a8839174](http://www.linkedin.com/
 
 **PROFESSIONAL SUMMARY**
 
-Proactive Virtual Assistant with over years 2 + of experience in administrative support, email and calendar management, client communication, data entry and task coordination in remote settings. Adept at handling multiple responsibilities efficiently while maintaining high standards of professionalism and confidentiality. Skilled in using Customers Relationship Management( CRM) tools to streamline workflows, support project management, and enhance team productivity. Known for excellent organizational and communication skills, with a strong commitment to delivering timely and accurate support in fast-paced environments.
+Proactive Virtual Assistant and Customer Support with over years 2 + of experience in administrative support, email and calendar management, client communication, data entry and task coordination in remote settings. Adept at handling multiple responsibilities efficiently while maintaining high standards of professionalism and confidentiality. Skilled in using Customers Relationship Management( CRM) tools to streamline workflows, support project management, and enhance team productivity. Known for excellent organizational and communication skills, with a strong commitment to delivering timely and accurate support in fast-paced environments.
 
 MY EXPERIENCE
 
