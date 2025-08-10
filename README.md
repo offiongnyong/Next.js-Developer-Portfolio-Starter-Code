@@ -31,6 +31,12 @@ Proactive Virtual Assistant and Customer Support with over years 2 + of experien
 
 https://www.notion.so/Offiong-Effiong-Nyong-216075766c018083a254eba94de69e8a?source=copy_link
 
+
+### **CERTIFICATIONS**
+Call Center Training – 2018 – Allied Educational Resources LTD
+
+Customer Support Certificate – Digital Skills Hub
+
 MY EXPERIENCE
 
 
